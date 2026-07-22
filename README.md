@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá!
 
-<!--
-**joaoppedro2004/joaoppedro2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Pedro Ferreira Faria.
 
-Here are some ideas to get you started:
+🎓 Estudante de Tecnologia da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apaixonado por desenvolvimento de software.
+
+🚀 Atualmente estudando desenvolvimento web, Python, .NET e Inteligência Artificial.
+
+Seja bem-vindo ao meu perfil!
+
+## 💻 Tecnologias
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Python
+
+- C#
+
+- .NET
+
+- Git
+
+- ## 🚀 Projetos
+- 🚗 Sistema de Aluguel de Carros
+
+🍔 Sistema de Lanchonete
+
+🤖 Chatbot IA
+
+🌐 Portfólio
+
+✈️ Agência de Viagens
+
+## 📫 Contato
+
+Email
+
+LinkedIn
+
+Instagram
+
+- GitHub
+- 

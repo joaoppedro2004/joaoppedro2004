@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner do João Pedro" width="100%">
+</p>
+
 # 👋 Olá!
 
 Meu nome é João Pedro Ferreira Faria.

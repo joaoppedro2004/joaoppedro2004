@@ -32,21 +32,21 @@ Seja bem-vindo ao meu perfil!
 - ## 🚀 Projetos
 - 🚗 Sistema de Aluguel de Carros
 
-🍔 Sistema de Lanchonete
+-🍔 Sistema de Lanchonete
 
-🤖 Chatbot IA
+-🤖 Chatbot IA
 
-🌐 Portfólio
+-🌐 Portfólio
 
-✈️ Agência de Viagens
+-✈️ Agência de Viagens
 
 ## 📫 Contato
 
-Email
+-Email
 
-LinkedIn
+-LinkedIn
 
-Instagram
+-Instagram
 
 - GitHub
 - 

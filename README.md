@@ -29,25 +29,19 @@ Seja bem-vindo ao meu perfil!
 
 - Git
 
-- ## 🚀 Projetos
-  
+## 🚀 Projetos
+
 - 🚗 Sistema de Aluguel de Carros
-
--🍔 Sistema de Lanchonete
-
--🤖 Chatbot IA
-
--🌐 Portfólio
-
--✈️ Agência de Viagens
+- 🍔 Sistema de Lanchonete
+- 🤖 Chatbot IA
+- 🌐 Portfólio
+- ✈️ Agência de Viagens
 
 ## 📫 Contato
 
--Email
-
--LinkedIn
-
--Instagram
-
+- 📧 Email
+- 💼 LinkedIn
+- 📷 Instagram
+- 💻 GitHub
 - GitHub
 
